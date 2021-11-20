@@ -214,14 +214,6 @@
       "pair": "terra18yl0z6wntjkustt9cckc9ptp7l5qh7kr0xrmav",
       "lpToken": "terra1e0njrqcsehxpt9due62x9zsxl7h9htl0xqdujv",
       "status": "LISTED"
-    },
-    "terra18yx7ff8knc98p07pdkhm3u36wufaeacv47fuha": {
-      "symbol": "mQQQ",
-      "name": "Invesco QQQ Trust",
-      "token": "terra18yx7ff8knc98p07pdkhm3u36wufaeacv47fuha",
-      "pair": "terra1epxv8z6tzxezjfgw7tveytw5n3fuf6wvg6w8f5",
-      "lpToken": "terra1h52zc9qmndczgru9vp2cvuwfclyykl5yt3qjk8",
-      "status": "LISTED"
     }
   }
 }
