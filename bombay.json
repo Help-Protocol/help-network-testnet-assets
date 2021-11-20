@@ -15,20 +15,12 @@
     "lock": "terra1pcxghd4dyf950mcs0kmlp7lvnrjsnl6qlfldwj"
   },
   "whitelist": {
-    "terra1yed6dwpmf27l04nwelem22nvxr9s9pg3tnkjr0": {
-      "symbol": "KARMA",
-      "name": "Help Network Karma Token",
-      "token": "terra1yed6dwpmf27l04nwelem22nvxr9s9pg3tnkjr0",
+    "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u": {
+      "symbol": "MIR",
+      "name": "Mirror",
+      "token": "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u",
       "pair": "terra1cz6qp8lfwht83fh9xm9n94kj04qc35ulga5dl0",
       "lpToken": "terra1zrryfhlrpg49quz37u90ck6f396l4xdjs5s08j",
-      "status": "LISTED"
-    },
-    "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0": {
-      "symbol": "hOWL",
-      "name": "Project-Owl",
-      "token": "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0",
-      "pair": "terra1yj892rl8edvk0y2ayf3h36t6uf89lzxg8jea4a",
-      "lpToken": "terra1vth958fsn8zawllaqcdzswksjkv3dz2sqqmcu4",
       "status": "LISTED"
     },
     "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0": {
@@ -39,12 +31,12 @@
       "lpToken": "terra1vth958fsn8zawllaqcdzswksjkv3dz2sqqmcu4",
       "status": "LISTED"
     },
-    "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0": {
-      "symbol": "hEEW",
-      "name": "OpenEEW",
-      "token": "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0",
-      "pair": "terra1yj892rl8edvk0y2ayf3h36t6uf89lzxg8jea4a",
-      "lpToken": "terra1vth958fsn8zawllaqcdzswksjkv3dz2sqqmcu4",
+    "terra1avryzxnsn2denq7p2d7ukm6nkck9s0rz2llgnc": {
+      "symbol": "hOWL",
+      "name": "Project-OWL",
+      "token": "terra1avryzxnsn2denq7p2d7ukm6nkck9s0rz2llgnc",
+      "pair": "terra13009wwv5flguch7kmwcgq8zz4r7asam3vmxkn6",
+      "lpToken": "terra1d7xlu53sx9anwdqvxeya0tmhr7xzepd9agyvft",
       "status": "LISTED"
     }
   }
