@@ -1,7 +1,7 @@
 {
   "contracts": {
     "gov": "terra12r5ghc6ppewcdcs3hkewrz24ey6xl7mmpk478s",
-    "mirrorToken": "terra1yed6dwpmf27l04nwelem22nvxr9s9pg3tnkjr0",
+    "mirrorToken": "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u",
     "factory": "terra10l9xc9eyrpxd5tqjgy6uxrw7dd9cv897cw8wdr",
     "oracle": "terra1uvxhec74deupp47enh7z5pk55f3cvcz8nj4ww9",
     "mint": "terra1s9ehcjv0dqj2gsl72xrpp0ga5fql7fj7y3kq3w",
