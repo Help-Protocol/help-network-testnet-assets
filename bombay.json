@@ -15,10 +15,10 @@
     "lock": "terra1pcxghd4dyf950mcs0kmlp7lvnrjsnl6qlfldwj"
   },
   "whitelist": {
-    "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u": {
-      "symbol": "MIR",
-      "name": "Mirror",
-      "token": "terra10llyp6v3j3her8u3ce66ragytu45kcmd9asj3u",
+    "terra1yed6dwpmf27l04nwelem22nvxr9s9pg3tnkjr0": {
+      "symbol": "KARMA",
+      "name": "Help Network Karma Token",
+      "token": "terra1yed6dwpmf27l04nwelem22nvxr9s9pg3tnkjr0",
       "pair": "terra1cz6qp8lfwht83fh9xm9n94kj04qc35ulga5dl0",
       "lpToken": "terra1zrryfhlrpg49quz37u90ck6f396l4xdjs5s08j",
       "status": "LISTED"
