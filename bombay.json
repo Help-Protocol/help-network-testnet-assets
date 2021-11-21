@@ -262,62 +262,6 @@
       "pair": "terra1znqeqnumtmpwgdltfw72v2298m3lrg7m447f2q",
       "lpToken": "terra1d6l7vk5ktugx9qm6nmtd2hv7kleg9xqce0ncps",
       "status": "LISTED"
-    },
-    "terra1nslem9lgwx53rvgqwd8hgq7pepsry6yr3wsen4": {
-      "symbol": "mTSLA",
-      "name": "Tesla, Inc.",
-      "token": "terra1nslem9lgwx53rvgqwd8hgq7pepsry6yr3wsen4",
-      "pair": "terra1tsln42kfeq8edwscmw8njgter5dp8evn40znn9",
-      "lpToken": "terra1utf7qw0uce42vqsh255hxgd3pvuzfvp6jcayk5",
-      "status": "LISTED"
-    },
-    "terra1ax7mhqahj6vcqnnl675nqq2g9wghzuecy923vy": {
-      "symbol": "mTWTR",
-      "name": "Twitter, Inc.",
-      "token": "terra1ax7mhqahj6vcqnnl675nqq2g9wghzuecy923vy",
-      "pair": "terra1jv937296dy5c5dxglrzf05h0jlaaxp55tqlyh6",
-      "lpToken": "terra10cugucjwn4hdtvavl0n2sh2ke64nx93luhj49k",
-      "status": "LISTED"
-    },
-    "terra1fucmfp8x4mpzsydjaxyv26hrkdg4vpdzdvf647": {
-      "symbol": "mUSO",
-      "name": "United States Oil Fund, LP",
-      "token": "terra1fucmfp8x4mpzsydjaxyv26hrkdg4vpdzdvf647",
-      "pair": "terra1llk7ycwwlj2zs2l2dvnvmsxrsrnucqwaltstcf",
-      "lpToken": "terra1rag9w5ch0jrdxjffr6napqz0zsrpm6uz2zezmj",
-      "status": "LISTED"
-    },
-    "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd": {
-      "symbol": "mVIXY",
-      "name": "ProShares VIX Short-Term Futures ETF",
-      "token": "terra1z0k7nx0vl85hwpv3e3hu2cyfkwq07fl7nqchvd",
-      "pair": "terra1xg2393l4s7n4z2r0cnu4rr55mkpp942f4d3qzr",
-      "lpToken": "terra1ud750vcv39hd467sj2kk6s6nn8zf5xhgggf7uq",
-      "status": "DELISTED"
-    },
-    "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee": {
-      "symbol": "mVIXY",
-      "name": "ProShares VIX Short-Term Futures ETF",
-      "token": "terra18gphn8r437p2xmjpw7a79hgsglf5y4t0x7s5ee",
-      "pair": "terra1tfkksph7p9qkean66kc87u2kalu0pw9um9ep2y",
-      "lpToken": "terra1h9zrywpukj2wvu5dfsm7tcxk8mwzzyrxenshsn",
-      "status": "LISTED"
-    },
-    "terra1090l5p5v794dpyzr07da72cyexhuc4zag5cuer": {
-      "symbol": "mWVFC",
-      "name": "WVS Financial Corp.",
-      "token": "terra1090l5p5v794dpyzr07da72cyexhuc4zag5cuer",
-      "pair": "terra136twwxx09ywacekqy88uxepus8djhd7pkjr44q",
-      "lpToken": "terra1jz08nhqf3aju4rs8cyshfpzfj704sa3l0cnhvz",
-      "status": "DELISTED"
-    },
-    "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4": {
-      "symbol": "mWVFC",
-      "name": "WVS Financial Corp.",
-      "token": "terra18py95akdje8q8aaukhx65dplh9342m0j884wt4",
-      "pair": "terra1kjz67vny3vdj5nx0a5dk0r8ymkcs4ga8zssfmk",
-      "lpToken": "terra1yh39ehhz9a94kxqtkxc0kuy2a9atxhynmkpxyd",
-      "status": "DELISTED"
     }
   },
   "delist": {
