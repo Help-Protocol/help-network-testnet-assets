@@ -24,19 +24,75 @@
       "status": "LISTED"
     },
     "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0": {
-      "symbol": "hPYR",
-      "name": "Pyrrha",
+      "symbol": "mAAPL",
+      "name": "Apple Inc.",
       "token": "terra16vfxm98rxlc8erj4g0sj5932dvylgmdufnugk0",
       "pair": "terra1yj892rl8edvk0y2ayf3h36t6uf89lzxg8jea4a",
       "lpToken": "terra1vth958fsn8zawllaqcdzswksjkv3dz2sqqmcu4",
       "status": "LISTED"
     },
     "terra1avryzxnsn2denq7p2d7ukm6nkck9s0rz2llgnc": {
-      "symbol": "hOWL",
-      "name": "Project-OWL",
+      "symbol": "mABNB",
+      "name": "Airbnb Inc.",
       "token": "terra1avryzxnsn2denq7p2d7ukm6nkck9s0rz2llgnc",
       "pair": "terra13009wwv5flguch7kmwcgq8zz4r7asam3vmxkn6",
       "lpToken": "terra1d7xlu53sx9anwdqvxeya0tmhr7xzepd9agyvft",
+      "status": "LISTED"
+    },
+    "terra1zeyfhurlrun6sgytqfue555e6vw2ndxt2j7jhd": {
+      "symbol": "mAMC",
+      "name": "AMC Entertainment Holdings Inc.",
+      "token": "terra1zeyfhurlrun6sgytqfue555e6vw2ndxt2j7jhd",
+      "pair": "terra1nvevc6ff7vlmrd50ucuefa95xd2gzmy6lugqsm",
+      "lpToken": "terra1d8mk480l4sp3j095apcpqckrxyxqrsq6zapfzy",
+      "status": "DELISTED"
+    },
+    "terra1ftefjmtpnk2fctsa8xkv8naven65z5qtgq83nu": {
+      "symbol": "mAMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "token": "terra1ftefjmtpnk2fctsa8xkv8naven65z5qtgq83nu",
+      "pair": "terra12q2ehzn8jah7mfez9d0f7ztsu3vdf0g3mxzztq",
+      "lpToken": "terra1lu2eg3hghmkd0s5jdsnr24mg5cremf0e8dpz4l",
+      "status": "LISTED"
+    },
+    "terra12saaecsqwxj04fn0jsv4jmdyp6gylptf5tksge": {
+      "symbol": "mAMZN",
+      "name": "Amazon.com, Inc.",
+      "token": "terra12saaecsqwxj04fn0jsv4jmdyp6gylptf5tksge",
+      "pair": "terra1xs3vy9zs8agmnzyn7z9s7kqk392uu2h3x3l6er",
+      "lpToken": "terra1kgvcrtupc8y4dgc9n08ud99ckdxp08j59zgccf",
+      "status": "LISTED"
+    },
+    "terra1qk0cd8576fqf33paf40xy3rt82p7yluwtxz7qx": {
+      "symbol": "mARKK",
+      "name": "ARK Innovation ETF",
+      "token": "terra1qk0cd8576fqf33paf40xy3rt82p7yluwtxz7qx",
+      "pair": "terra1t3xljlc82tmc0xjpfcrnu44phg2s4mt5rt3llm",
+      "lpToken": "terra1plwkt2fj8n9xkfdp9z6f5sp6r63vx2s22mznls",
+      "status": "LISTED"
+    },
+    "terra15dr4ah3kha68kam7a907pje9w6z2lpjpnrkd06": {
+      "symbol": "mBABA",
+      "name": "Alibaba Group Holding Limited",
+      "token": "terra15dr4ah3kha68kam7a907pje9w6z2lpjpnrkd06",
+      "pair": "terra15qq59h2canrr2pf8ny7rw57nx3mcvw97tp3xj4",
+      "lpToken": "terra1px2ya3e07aprfgc76e57r3nuvy3czssrvcxg9t",
+      "status": "LISTED"
+    },
+    "terra1csr22xvxs6r3gkjsl7pmjkmpt39mwjsrm0e2r8": {
+      "symbol": "mBTC",
+      "name": "Bitcoin",
+      "token": "terra1csr22xvxs6r3gkjsl7pmjkmpt39mwjsrm0e2r8",
+      "pair": "terra134jl4dt20mqfryhnmhauryr754vuw7990jdell",
+      "lpToken": "terra186m890y8hzhyhp8emgsy2a8jqvsgluznc688xf",
+      "status": "LISTED"
+    },
+    "terra1qre9crlfnulcg0m68qqywqqstplgvrzywsg3am": {
+      "symbol": "mCOIN",
+      "name": "Coinbase Global, Inc.",
+      "token": "terra1qre9crlfnulcg0m68qqywqqstplgvrzywsg3am",
+      "pair": "terra13qzses7zpsyrufx38h0kc3p87523cjgwmenj44",
+      "lpToken": "terra1gdglgpm84pdzuedc924wurhsqd0vs4nv4tpmh8",
       "status": "LISTED"
     }
   }
