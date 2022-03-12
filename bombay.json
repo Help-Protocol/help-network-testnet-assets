@@ -15,10 +15,10 @@
     "lock": "terra1pcxghd4dyf950mcs0kmlp7lvnrjsnl6qlfldwj"
   },
   "whitelist": {
-    "terra1yed6dwpmf27l04nwelem22nvxr9s9pg3tnkjr0": {
-      "symbol": "KARMA",
-      "name": "Help Network Karma Token",
-      "token": "terra1yed6dwpmf27l04nwelem22nvxr9s9pg3tnkjr0",
+    "terra1hmjx7nquxsrqvpmed0m94ppmfnz2nyza2m3485": {
+      "symbol": "DESAR",
+      "name": "DESAR Governance Token",
+      "token": "terra1hmjx7nquxsrqvpmed0m94ppmfnz2nyza2m3485",
       "pair": "terra1cz6qp8lfwht83fh9xm9n94kj04qc35ulga5dl0",
       "lpToken": "terra1zrryfhlrpg49quz37u90ck6f396l4xdjs5s08j",
       "status": "LISTED"
